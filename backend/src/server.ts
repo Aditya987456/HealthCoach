@@ -43,7 +43,7 @@ app.post("/analyze", async (req, res)=>{
         //---here returning ai answer...
         return res.status(200).json({
             success: true,
-            response        
+            report:response        
         });
 
 
