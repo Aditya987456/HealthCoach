@@ -1,1 +1,1 @@
-export const backendUrl="http://localhost:3000"
+export const backendUrl="https://healthcoach-7uol.onrender.com"
